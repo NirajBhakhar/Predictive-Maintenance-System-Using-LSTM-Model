@@ -48,7 +48,7 @@ The project utilizes time-series forecasting techniques with LSTM models to pred
 
 ## Usage
 
-- Open the Jupyter notebook in the `notebooks/` directory to explore data analysis and preprocessing steps.
+- Open the Jupyter notebook in the `notebooks/` directory to explore the entire project, including data analysis, preprocessing, model training, and evaluation steps.
 
 ## Results
 
